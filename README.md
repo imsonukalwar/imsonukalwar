@@ -52,3 +52,70 @@
     alt="Terminal style section separator"
   />
 </p>
+
+
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%2B+Java+%2B+DSA;Building+real-world+web+applications;Turning+ideas+into+working+products"
+    alt="Typing animation"
+  />
+</p>
+
+<p align="center">
+  <samp>
+    I’m Sonu Kumar, a Computer Science & Engineering graduate<br/>
+    passionate about building modern web applications and solving problems with code.
+  </samp>
+</p>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 What I Do
+
+* ⚡ Build **MERN Stack** applications
+* 🔧 Develop **REST APIs** with Node.js & Express
+* 🧠 Solve **DSA problems using Java**
+* 💬 Build **real-time applications** with Socket.IO
+* 🗄️ Work with **MongoDB & Mongoose**
+* 🐳 Explore **Docker & deployment**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Current Focus
+
+```text
+Java + DSA
+     ↓
+MERN Stack
+     ↓
+Backend Development
+     ↓
+Docker & DevOps
+     ↓
+Building Better Projects 🚀
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="80%" />
+</p>
+
+<p align="center">
+  <samp>
+    💡 Learn → Build → Break → Debug → Improve → Repeat
+  </samp>
+</p>
+
