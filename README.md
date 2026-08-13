@@ -244,9 +244,9 @@ Building Better Projects 🚀
 
 <h3 align="center">🚀 Development Workflow</h3>
 
-<details open>
+<details>
   <summary>
-    <strong>▼ ⚡ Core Full Stack Capabilities</strong>
+    <strong> ⚡ Core Full Stack Capabilities</strong>
   </summary>
 
   <br>
