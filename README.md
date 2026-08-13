@@ -140,4 +140,190 @@ Building Better Projects 🚀
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="80%" />
 </p>
 
+<!-- ==================== TECHNICAL SKILLS ==================== -->
 
+<h2 align="center">⚡ Technical Skills</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=My+Development+Stack;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Code+%E2%86%92+API+%E2%86%92+Deployment;Always+Learning+%7C+Always+Building"
+    alt="Technical skills animation"
+  />
+</p>
+
+<br>
+
+<!-- ==================== SKILL FLOW ==================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:7C3AED,100:00E5FF&height=3"
+    width="85%"
+    alt="Skills separator"
+  />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+
+<br><br>
+
+`HTML` • `CSS` • `JavaScript`  
+`React` • `Vite` • `Tailwind CSS`
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+
+<br><br>
+
+`Node.js` • `Express.js`  
+`Java` • `REST APIs`
+
+<br>
+
+`Socket.IO` • `JWT`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+
+<br><br>
+
+`MongoDB`  
+`Mongoose`  
+`Firebase`
+
+<br>
+
+`Database Design`  
+`CRUD Operations`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+
+<br><br>
+
+`Git` • `GitHub`  
+`Docker` • `Postman`
+
+<br>
+
+`VS Code`  
+`npm` • `REST Client`
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ==================== DEVELOPMENT PIPELINE ==================== -->
+
+<h3 align="center">🚀 Development Workflow</h3>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=Design+%E2%86%92+Develop+%E2%86%92+Test+%E2%86%92+Deploy;React+%E2%86%92+Node.js+%E2%86%92+Express+%E2%86%92+MongoDB;Git+%E2%86%92+Docker+%E2%86%92+Deployment"
+    alt="Development workflow animation"
+  />
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=java,js" />
+
+<br><br>
+
+**Java** • **JavaScript**
+
+</td>
+
+<td align="center">
+
+### 🧠 Problem Solving
+
+**DSA**
+
+<br>
+
+`Arrays` • `Strings`  
+`Two Pointers` • `Sliding Window`  
+`Sorting` • `Searching`  
+`Recursion` • `Linked List`
+
+</td>
+
+<td align="center">
+
+### 🔐 Backend Engineering
+
+`REST API`
+
+<br>
+
+`Authentication`  
+`JWT` • `Cookies`
+
+<br>
+
+`Socket.IO`  
+`Error Handling`
+
+</td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ==================== CORE STACK ==================== -->
+
+<h3 align="center">🔥 Core Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,docker,git,github,postman" />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2"
+    width="75%"
+    alt="Core stack separator"
+  />
+</p>
+
+<p align="center">
+  <samp>
+    ⚡ BUILD &nbsp;•&nbsp; 🧠 SOLVE &nbsp;•&nbsp; 🔧 DEBUG &nbsp;•&nbsp; 🚀 DEPLOY
+  </samp>
+</p>
