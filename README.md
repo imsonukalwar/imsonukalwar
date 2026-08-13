@@ -56,19 +56,19 @@
 
 <h2 align="center">⚡ About Me</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%2B+Java+%2B+DSA;Building+real-world+web+applications;Turning+ideas+into+working+products"
     alt="Typing animation"
   />
-</p>
+</p> -->
 
 <p align="center">
   <samp>
     I’m Sonu Kumar, a Computer Science & Engineering graduate<br/>
     passionate about building modern web applications and solving problems with code.
   </samp>
-</p>
+</p> 
 
 <br/>
 
@@ -144,12 +144,12 @@ Building Better Projects 🚀
 
 <h2 align="center">⚡ Technical Skills</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=My+Development+Stack;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Code+%E2%86%92+API+%E2%86%92+Deployment;Always+Learning+%7C+Always+Building"
     alt="Technical skills animation"
   />
-</p>
+</p> -->
 
 <br>
 
@@ -498,4 +498,139 @@ Building Better Projects 🚀
   <samp>
     ⚡ BUILD &nbsp;•&nbsp; 🧠 SOLVE &nbsp;•&nbsp; 🔧 DEBUG &nbsp;•&nbsp; 🚀 DEPLOY
   </samp>
+</p>
+
+
+
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Projects+I've+Built;Build+%7C+Learn+%7C+Improve"
+    alt="Projects Animation"
+  />
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<h3>🛒 Ekart</h3>
+
+<b>MERN E-Commerce</b>
+
+<p>
+React • Node • Express<br>
+MongoDB • Redux
+</p>
+
+<a href="https://e-commerce-web-hmsh.vercel.app/">
+<img src="https://img.shields.io/badge/🚀_LIVE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Ekart">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>💬 Chatter</h3>
+
+<b>Real-Time Chat</b>
+
+<p>
+React • Node • Express<br>
+MongoDB • Socket.IO
+</p>
+
+<a href="https://chatter10.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_LIVE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Chatter">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>🤖 WebsiteBuilder</h3>
+
+<b>AI Website Builder</b>
+
+<p>
+React • Node • Express<br>
+MongoDB • OpenRouter
+</p>
+
+<a href="https://github.com/imsonukalwar">
+<img src="https://img.shields.io/badge/💻_CODE-7C3AED?style=for-the-badge&labelColor=0D1117" alt="WebsiteBuilder">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+<h3>🌤️ Weather</h3>
+
+<b>Weather Application</b>
+
+<p>
+React • JavaScript<br>
+REST API • Axios
+</p>
+
+<a href="https://weathersonu.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_LIVE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Weather">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>👨‍💻 Portfolio</h3>
+
+<b>Developer Portfolio</b>
+
+<p>
+React • JavaScript<br>
+CSS • Responsive UI
+</p>
+
+<a href="https://sonuportfolioo.netlify.app/">
+<img src="https://img.shields.io/badge/🚀_LIVE-00E5FF?style=for-the-badge&labelColor=0D1117" alt="Portfolio">
+</a>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>🧠 DSA</h3>
+
+<b>Problem Solving</b>
+
+<p>
+Java • DSA<br>
+LeetCode • GFG
+</p>
+
+<a href="https://github.com/imsonukalwar">
+<img src="https://img.shields.io/badge/💻_GITHUB-7C3AED?style=for-the-badge&labelColor=0D1117" alt="DSA">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=IDEA+%E2%86%92+CODE+%E2%86%92+DEBUG+%E2%86%92+DEPLOY+%F0%9F%9A%80"
+alt="Project Flow"
+/>
 </p>
