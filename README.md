@@ -244,6 +244,166 @@ Building Better Projects 🚀
 
 <h3 align="center">🚀 Development Workflow</h3>
 
+<details open>
+  <summary>
+    <strong>▼ ⚡ Core Full Stack Capabilities</strong>
+  </summary>
+
+  <br>
+
+  <!-- FRONTEND -->
+  <table width="100%">
+    <tr>
+      <td>
+
+### 🎨 Frontend Development
+
+⚡ **HTML5** &nbsp; • &nbsp;
+🎨 **CSS3** &nbsp; • &nbsp;
+🟨 **JavaScript ES6+** &nbsp; • &nbsp;
+⚛️ **React.js** &nbsp; • &nbsp;
+⚡ **Vite** &nbsp; • &nbsp;
+🎨 **Tailwind CSS** &nbsp; • &nbsp;
+🔄 **Redux Toolkit**
+
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- BACKEND -->
+  <table width="100%">
+    <tr>
+      <td>
+
+### ⚙️ Backend Development
+
+🟢 **Node.js** &nbsp; • &nbsp;
+🚀 **Express.js** &nbsp; • &nbsp;
+🔗 **REST APIs** &nbsp; • &nbsp;
+🛡️ **Middleware** &nbsp; • &nbsp;
+🔐 **JWT Authentication** &nbsp; • &nbsp;
+🍪 **Cookies** &nbsp; • &nbsp;
+📧 **Email Verification**
+
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- DATABASE -->
+  <table width="100%">
+    <tr>
+      <td>
+
+### 🗄️ Database & Storage
+
+🍃 **MongoDB** &nbsp; • &nbsp;
+🧩 **Mongoose** &nbsp; • &nbsp;
+🔥 **Firebase** &nbsp; • &nbsp;
+🏗️ **Schema Design** &nbsp; • &nbsp;
+✏️ **CRUD Operations** &nbsp; • &nbsp;
+☁️ **Cloudinary** &nbsp; • &nbsp;
+📁 **File Uploads**
+
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- REAL TIME -->
+  <table width="100%">
+    <tr>
+      <td>
+
+### 💬 Real-Time & Integrations
+
+⚡ **Socket.IO** &nbsp; • &nbsp;
+💬 **Real-Time Messaging** &nbsp; • &nbsp;
+🟢 **Online Users** &nbsp; • &nbsp;
+💳 **Razorpay** &nbsp; • &nbsp;
+📮 **Nodemailer** &nbsp; • &nbsp;
+📧 **Resend** &nbsp; • &nbsp;
+🔌 **Third-Party APIs**
+
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- DEVOPS -->
+  <table width="100%">
+    <tr>
+      <td>
+
+### 🐳 DevOps & Developer Tools
+
+🐳 **Docker** &nbsp; • &nbsp;
+🌿 **Git** &nbsp; • &nbsp;
+🐙 **GitHub** &nbsp; • &nbsp;
+📮 **Postman** &nbsp; • &nbsp;
+📦 **npm** &nbsp; • &nbsp;
+💻 **VS Code** &nbsp; • &nbsp;
+🚀 **Deployment & Debugging**
+
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- PROGRAMMING -->
+  <table width="100%">
+    <tr>
+      <td>
+
+### 🧠 Programming & DSA
+
+☕ **Java** &nbsp; • &nbsp;
+🟨 **JavaScript** &nbsp; • &nbsp;
+🔢 **Arrays** &nbsp; • &nbsp;
+🔤 **Strings** &nbsp; • &nbsp;
+🔄 **Sorting** &nbsp; • &nbsp;
+🔎 **Searching** &nbsp; • &nbsp;
+↔️ **Two Pointers** &nbsp; • &nbsp;
+🪟 **Sliding Window** &nbsp; • &nbsp;
+🔁 **Recursion** &nbsp; • &nbsp;
+🔗 **Linked List**
+
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- ANIMATED FLOW -->
+  <p align="center">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Database;API+%E2%86%92+Real-Time+%E2%86%92+Deployment;Java+%E2%86%92+DSA+%E2%86%92+Problem+Solving;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve"
+      alt="Full stack development flow"
+    />
+  </p>
+
+</details>
+
+
+
+
+<p align="center">
+  <img
+    width="100%"
+    src="./assets/sonu-api-stack-architecture.svg"
+    alt="Sonu Kumar Full Stack API Architecture"
+  />
+</p>
+
+
+
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=Design+%E2%86%92+Develop+%E2%86%92+Test+%E2%86%92+Deploy;React+%E2%86%92+Node.js+%E2%86%92+Express+%E2%86%92+MongoDB;Git+%E2%86%92+Docker+%E2%86%92+Deployment"
@@ -284,6 +444,7 @@ Building Better Projects 🚀
 
 <td align="center">
 
+
 ### 🔐 Backend Engineering
 
 `REST API`
@@ -301,6 +462,17 @@ Building Better Projects 🚀
 </td>
   </tr>
 </table>
+
+<!-- ===================================================================================== -->
+<p align="center">
+  <img
+    width="100%"
+    src="./assets/sonu-full-stack-tech-footer.svg"
+    alt="Sonu Kumar Full Stack Developer technology animation"
+  />
+</p>
+
+
 
 <br>
 
