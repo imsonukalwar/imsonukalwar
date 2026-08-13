@@ -106,20 +106,38 @@ Building Better Projects 🚀
 </td>
 </tr>
 </table>
-
 <br/>
+<p align="center">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="80%" />
 </p>
 
-
-
+  <p align="center">
+  <img
+    width="100%"
+    src="./assets/sonu-full-stack-network-animation.svg"
+    alt="Sonu Kumar Full Stack Developer network animation"
+  />
+</p>
 
 
 <p align="center">
+  <img
+    width="100%"
+    src="./assets/developer-architecture.svg.svg"
+    alt="Developer architecture"
+  />
+</p>
+
+
+
   <samp>
     💡 Learn → Build → Break → Debug → Improve → Repeat
   </samp>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="80%" />
+</p>
+
 
