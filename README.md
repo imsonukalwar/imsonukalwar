@@ -1,4 +1,4 @@
-<!-- <p align="center">
+`<!-- <p align="center">
   <img
     width="100%"
     src="./assets/backend-engineer-hero.svg"
@@ -56,7 +56,7 @@
 
 <h2 align="center">⚡ About Me</h2>
 
-<!-- <p align="center">
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%2B+Java+%2B+DSA;Building+real-world+web+applications;Turning+ideas+into+working+products"
     alt="Typing animation"
