@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img
     width="100%"
     src="./assets/backend-engineer-hero.svg"
@@ -636,72 +636,4 @@ alt="Project Flow"
 </p>
 
 
-
-## GitHub Analytics
-
-<!--
-  Dynamic SVG providers are used where they preserve the current visual layout.
-  The two custom local cards below are refreshed weekly by .github/workflows/profile-assets.yml
-  only when the semantic SVG content changes.
-
-  Dynamic alternatives if you ever want zero committed analytics SVGs:
-  - GitHub stats: https://github-readme-stats.vercel.app/api?username=sibasundarj8
-  - Top languages: https://github-readme-stats.vercel.app/api/top-langs/?username=sibasundarj8
--->
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="./assets/github-stats-card.svg" alt="GitHub stats card for imsonukalwar" />
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source
-          srcset="https://streak-stats.demolab.com?user=imsonukalwar&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;stroke=1F6FEB&amp;ring=00E5FF&amp;fire=FFB000&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=9BA8B7&amp;sideLabels=9BA8B7&amp;dates=64748B"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://streak-stats.demolab.com?user=imsonukalwar&amp;theme=default&amp;hide_border=true&amp;background=FFFFFF&amp;stroke=CBD5E1&amp;ring=0366D6&amp;fire=FF8A00&amp;currStreakNum=0D1117&amp;sideNums=0D1117&amp;currStreakLabel=334155&amp;sideLabels=334155&amp;dates=64748B"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img width="100%" src="https://streak-stats.demolab.com?user=imsonukalwar&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;stroke=1F6FEB&amp;ring=00E5FF&amp;fire=FFB000&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=9BA8B7&amp;sideLabels=9BA8B7&amp;dates=64748B" alt="GitHub streak stats" />
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="52%" src="./assets/top-langs-card.svg" alt="Most used languages card for imsonukalwar" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=imsonukalwar&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=9BA8B7&amp;line=00E5FF&amp;point=FFFFFF&amp;area=true&amp;area_color=00E5FF"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=imsonukalwar&amp;theme=github-light&amp;hide_border=true&amp;bg_color=FFFFFF&amp;color=334155&amp;line=0366D6&amp;point=0D1117&amp;area=true&amp;area_color=0366D6"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imsonukalwar&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;color=9BA8B7&amp;line=00E5FF&amp;point=FFFFFF&amp;area=true&amp;area_color=00E5FF" alt="GitHub contribution activity graph" />
-  </picture>
-</p>
-
-### Contribution Snake
-
-<!-- The snake SVGs are refreshed weekly on the output branch and published only when the generated SVG content changes. -->
-
-<p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imsonukalwar/imsonukalwar/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/imsonukalwar/imsonukalwar/output/github-contribution-grid-snake.svg" />
-      <img width="100%" src="https://raw.githubusercontent.com/imsonukalwar/imsonukalwar/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-    </picture>
-  </p>
-
-<p align="center">
-  <img width="100%" src="./assets/terminal-separator.svg" alt="Terminal style section separator" />
-</p>
-
+ -->
