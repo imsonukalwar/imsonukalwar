@@ -1,4 +1,4 @@
- <p align="center">
+<!--  <p align="center">
   <img
     width="100%"
     src="./assets/backend-engineer-hero.svg"
@@ -14,8 +14,8 @@
     />
   </a>
 </p>
-
-<p align="center">
+ 
+ <p align="center"> 
   <a href="https://github.com/imsonukalwar">
     <img
       src="https://img.shields.io/badge/GitHub-imsonukalwar-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0D1117&color=111827"
@@ -61,7 +61,7 @@
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+%2B+Java+%2B+DSA;Building+real-world+web+applications;Turning+ideas+into+working+products"
     alt="Typing animation"
   />
-</p> -->
+</p> 
 
 <p align="center">
   <samp>
@@ -140,7 +140,7 @@ Building Better Projects 🚀
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00E5FF&height=2&section=header" width="80%" />
 </p>
 
-<!-- ==================== TECHNICAL SKILLS ==================== -->
+
 
 <h2 align="center">⚡ Technical Skills</h2>
 
@@ -148,7 +148,7 @@ Building Better Projects 🚀
 
 <br>
 
-<!-- ==================== SKILL FLOW ==================== -->
+
 
 <p align="center">
   <img
@@ -235,7 +235,6 @@ Building Better Projects 🚀
 
 <br>
 
-<!-- ==================== DEVELOPMENT PIPELINE ==================== -->
 
 <h3 align="center">🚀 Development Workflow</h3>
 
@@ -246,7 +245,6 @@ Building Better Projects 🚀
 
   <br>
 
-  <!-- FRONTEND -->
   <table width="100%">
     <tr>
       <td>
@@ -267,7 +265,7 @@ Building Better Projects 🚀
 
   <br>
 
-  <!-- BACKEND -->
+ 
   <table width="100%">
     <tr>
       <td>
@@ -288,7 +286,7 @@ Building Better Projects 🚀
 
   <br>
 
-  <!-- DATABASE -->
+
   <table width="100%">
     <tr>
       <td>
@@ -309,7 +307,7 @@ Building Better Projects 🚀
 
   <br>
 
-  <!-- REAL TIME -->
+
   <table width="100%">
     <tr>
       <td>
@@ -330,7 +328,6 @@ Building Better Projects 🚀
 
   <br>
 
-  <!-- DEVOPS -->
   <table width="100%">
     <tr>
       <td>
@@ -351,7 +348,7 @@ Building Better Projects 🚀
 
   <br>
 
-  <!-- PROGRAMMING -->
+
   <table width="100%">
     <tr>
       <td>
@@ -375,7 +372,7 @@ Building Better Projects 🚀
 
   <br>
 
-  <!-- ANIMATED FLOW -->
+ 
   <p align="center">
     <img
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=Frontend+%E2%86%92+Backend+%E2%86%92+Database;API+%E2%86%92+Real-Time+%E2%86%92+Deployment;Java+%E2%86%92+DSA+%E2%86%92+Problem+Solving;Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve"
@@ -458,7 +455,7 @@ Building Better Projects 🚀
   </tr>
 </table>
 
-<!-- ===================================================================================== -->
+
 <p align="center">
   <img
     width="100%"
@@ -471,7 +468,7 @@ Building Better Projects 🚀
 
 <br>
 
-<!-- ==================== CORE STACK ==================== -->
+
 
 <h3 align="center">🔥 Core Stack</h3>
 
@@ -629,4 +626,4 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=1
 alt="Project Flow"
 />
 </p>
-
+-->
