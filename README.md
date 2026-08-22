@@ -1,4 +1,4 @@
-`<!-- <p align="center">
+ <p align="center">
   <img
     width="100%"
     src="./assets/backend-engineer-hero.svg"
@@ -144,12 +144,7 @@ Building Better Projects 🚀
 
 <h2 align="center">⚡ Technical Skills</h2>
 
-<!-- <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=My+Development+Stack;Frontend+%E2%86%92+Backend+%E2%86%92+Database;Code+%E2%86%92+API+%E2%86%92+Deployment;Always+Learning+%7C+Always+Building"
-    alt="Technical skills animation"
-  />
-</p> -->
+
 
 <br>
 
@@ -635,5 +630,3 @@ alt="Project Flow"
 />
 </p>
 
-
- -->
